@@ -11,7 +11,7 @@
 
 Hi everyone! 
 
-This is my repositor, where I show my skills and experience as a Java developer. Here you can find the frameworks, libraries and algorithms that I use to write code. 
+This is my repository where I show my skills and experience as a Java developer. Here you can find the frameworks, libraries and algorithms that I use to write code. 
 
 ---
 
