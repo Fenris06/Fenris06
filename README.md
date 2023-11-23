@@ -18,8 +18,6 @@ This is my repository where I show my skills and experience as a Java developer.
 ### :man_technologist: About Me :
 I am a JAVA Developer <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="30"> from Russia.
 
-- :telescope: I want to become a Java developer.
-
 - :student: Completed the Yandex Practical Java Developer Course.
 
 - :man_technologist: I'm learning new technologies for writing web applications.
