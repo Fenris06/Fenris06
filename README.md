@@ -28,6 +28,8 @@ I am a JAVA Developer <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5
 
 - :mailbox:How to reach me: https://t.me/Fenris066
 
+[![Codewars Badge](https://www.codewars.com/users/fenris06)
+
 ---
   
 ### :crossed_swords: Languages and Tools :
